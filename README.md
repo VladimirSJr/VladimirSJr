@@ -4,7 +4,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=VladimirSJr&show_icons=true&count_private=true&hide_border=true&title_color=a9081c&icon_color=a9081c&text_color=a9081c&bg_color=111a21" alt="Vladimir Jr github stats" />
-  <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VladimirSJr&layout=compact&show_icons=true&count_private=true&hide_border=true&title_color=a9081c&icon_color=a9081c&text_color=a9081c&bg_color=111a21" alt="Vladimir Jr github stats" /> 
+  <img width="50%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VladimirSJr&layout=compact&show_icons=true&count_private=true&hide_border=true&title_color=a9081c&icon_color=a9081c&text_color=a9081c&bg_color=111a21" alt="Vladimir Jr github stats" /> 
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=VladimirSJr&bg_color=111a21&color=a9081c&line=716b6d&point=a9081c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
