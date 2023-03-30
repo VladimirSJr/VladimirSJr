@@ -3,7 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=a9081c&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Vladimir+da+Silva+Junior;I'm+27+years+old;I'm+from+Brazil;I'm+studying+Analysis+and+Systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=VladimirSJr&show_icons=true&count_private=true&hide_border=true&title_color=a9081c&icon_color=a9081c&text_color=a9081c&bg_color=111a21" alt="Vladimir Jr github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=VladimirSJr&show_icons=true&count_private=true&hide_border=true&title_color=a9081c&icon_color=a9081c&text_color=a9081c&bg_color=111a21" alt="Vladimir Jr github stats" />
+  <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VladimirSJr&layout=compact&show_icons=true&count_private=true&hide_border=true&title_color=a9081c&icon_color=a9081c&text_color=a9081c&bg_color=111a21" alt="Vladimir Jr github stats" /> 
 </div>
 
 <div align="center">
