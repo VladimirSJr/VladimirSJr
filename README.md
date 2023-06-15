@@ -7,8 +7,6 @@
   <img width="50%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VladimirSJr&layout=compact&show_icons=true&count_private=true&hide_border=true&title_color=a9081c&icon_color=a9081c&text_color=a9081c&bg_color=111a21" alt="Vladimir Jr github stats" /> 
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=VladimirSJr&bg_color=111a21&color=a9081c&line=716b6d&point=a9081c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <div align="center">
 <a href = "mailto:vladimir.sjr@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/vladimir-da-silva-junior-176480108/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px"></a>
