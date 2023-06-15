@@ -1,17 +1,22 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a9081c&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=a9081c&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Vladimir+da+Silva+Junior;I'm+27+years+old;I'm+from+Brazil;I'm+studying+Analysis+and+Systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+# Hi :v:, ***Be welcome!***
+:id: My name is ***Vladimir da Silva Junior***
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=VladimirSJr&show_icons=true&count_private=true&hide_border=true&title_color=a9081c&icon_color=a9081c&text_color=a9081c&bg_color=111a21" alt="Vladimir Jr github stats" />
-  <img width="50%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VladimirSJr&layout=compact&show_icons=true&count_private=true&hide_border=true&title_color=a9081c&icon_color=a9081c&text_color=a9081c&bg_color=111a21" alt="Vladimir Jr github stats" /> 
-</div>
+:brazil: I'm from ***Brazil***
+
+:computer: I'm studying ***Analysis and Systems Development***
 
 <div align="center">
 <a href = "mailto:vladimir.sjr@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/vladimir-da-silva-junior-176480108/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px"></a>
 <a href="https://twitter.com/vladimir_sjr" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" style="border-radius: 30px"></a> 
  </div>
+ 
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=VladimirSJr&show_icons=true&count_private=true&hide_border=true&title_color=a9081c&icon_color=a9081c&text_color=a9081c&bg_color=111a21" alt="Vladimir Jr github stats" />
+  <img width="50%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VladimirSJr&layout=compact&show_icons=true&count_private=true&hide_border=true&title_color=a9081c&icon_color=a9081c&text_color=a9081c&bg_color=111a21" alt="Vladimir Jr github stats" /> 
+</div>
  
   ### Main skills:
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
@@ -22,7 +27,6 @@
 
 ### Studying:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 
 ### Next to study:
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
