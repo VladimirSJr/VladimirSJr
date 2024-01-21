@@ -13,8 +13,8 @@
  </div>
  
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=VladimirSJr&show_icons=true&count_private=true&hide_border=true&title_color=a9081c&icon_color=a9081c&text_color=a9081c&bg_color=111a21" alt="Vladimir Jr github stats" />
-  <img width="50%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VladimirSJr&layout=compact&show_icons=true&count_private=true&hide_border=true&title_color=a9081c&icon_color=a9081c&text_color=a9081c&bg_color=111a21" alt="Vladimir Jr github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=VladimirSJr&show_icons=true&count_private=true&hide_border=true&title_color=76BA96&icon_color=76BA96&text_color=76BA96&bg_color=DFEBF6" alt="Vladimir Jr github stats" />
+  <img width="50%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VladimirSJr&layout=compact&show_icons=true&count_private=true&hide_border=true&title_color=76BA96&icon_color=76BA96&text_color=76BA96&bg_color=DFEBF6" alt="Vladimir Jr github stats" /> 
 </div>
  
   ### Main skills:
